@@ -1,6 +1,3 @@
-# neoclawd
-Ultra-light multi-agent system with free models (DeepSeek, Ollama, Qveris.ai) - optimized for 2013 iMac with Core i5 8GB RAM
-┌─────────────────────────────────────────────────────────────┐
 # Neoclawd
 
 ## Project Overview
@@ -22,3 +19,22 @@ Neoclawd is a modern web application designed for managing content dynamically a
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/wenhuakai/neoclawd.git
+   ```
+2. **Navigate to the Project Directory**: 
+   ```bash
+   cd neoclawd
+   ```
+3. **Install Dependencies**: 
+   ```bash
+   npm install
+   ```
+4. **Start the Application**: 
+   ```bash
+   npm run start
+   ``` 
+
+## Usage Guide
+- Visit `http://localhost:3000` in your browser to access the application.
+- Follow the on-screen instructions to navigate through the functionalities.
+
+For more details, please refer to the official documentation or contact support.
